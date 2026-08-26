@@ -1,0 +1,18 @@
+Java 8 Coding and Programming Interview Questions and Answers ☑
+----------------------------------------------------------------
+1.Write a Program for Filtering Even and Odd Numbers Using Stream API in Java 8☑
+2. Write a Program for Sorting Values Using Stream API in Java 8☑
+3. Write a Program for Sorting Values in Descending Order Using Stream API in Java 8☑
+4. Write a Program for Filtering Numbers Starting with '1' Using Stream API in Java 8☑
+5. Write a Program for Cubing and Filtering Numbers Greater Than 50 Using Stream API in Java 8☑
+6. Write a Program for Displaying Current Date and Time Using Java 8 Date/Time API☑
+7. Write a Program for Finding the Total Number of Elements in a List Using Stream API in Java 8☑
+8. Write a Program for Finding the Minimum Element in a List Using Stream API in Java 8☑
+9. Write a Program for Finding the Maximum Element in a List Using Stream API in Java 8☑
+10. Write a Program for Finding the First Element in a List Using Stream API in Java 8☑
+11.Write a Program for Finding the Nth Maximum Element in a List Using Stream API in Java 8☑
+12.Write a Program for Finding Duplicate Elements in a List Using Stream API in Java 8☑
+13.Print each duplicate character Using Stream API in Java 8☑
+14.Write a Program for Counting Occurrences of Specific Characters in a String Using Stream API in Java 8☑
+15.Write a Program for Filtering and Sorting Employees Based on Salary and Name Using Stream API in Java 8☑
+16.Write a Program for Filtering and Sorting Employees by Salary and City Using Stream API in Java 8☑

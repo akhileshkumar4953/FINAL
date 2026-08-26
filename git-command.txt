@@ -1,0 +1,23 @@
+git add .
+git commit -m "6:44 pm Thursday, 20 August 2026 (IST)"
+git push
+
+---------------------
+…or create a new repository on the command line
+
+echo "# Naukri.com-Update-On-Krishna-Janmashtami" >> README.md
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/akhileshkumar4953/FINAL.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/akhileshkumar4953/Naukri.com-Update-On-Krishna-Janmashtami.git
+git branch -M main
+git push -u origin main
+_____________________________________
+git add .
+git status
+git commit -m "Initial commit"

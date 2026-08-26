@@ -1,0 +1,37 @@
+🏆 Final Goal Projects
+
+Build these projects in sequence:
+
+Project 1
+
+Employee Management CRUD
+
+Forms
+Routing
+API Calls
+Project 2
+
+E-Commerce Application
+
+Authentication
+Cart
+RxJS
+Lazy Loading
+Project 3
+
+Enterprise HRMS Portal
+
+NgRx
+JWT
+Role Based Security
+Dynamic Forms
+Angular Material
+Project 4
+
+Micro Frontend Enterprise Application
+
+Module Federation
+Nx
+CI/CD
+Docker
+SSR
